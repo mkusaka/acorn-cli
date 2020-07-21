@@ -18,7 +18,7 @@ program
 
 const pattern = program.files;
 
-console.log(pattern);
+console.log("glob pattern:", pattern);
 
 glob(pattern, (err, files) => {
   if (err) {
