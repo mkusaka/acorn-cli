@@ -1,0 +1,4 @@
+{
+  extends: ["config:base", ":onlyNpm"],
+  rangeStrategy: "bump",
+}
