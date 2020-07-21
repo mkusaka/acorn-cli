@@ -14,5 +14,9 @@
   },
   "files": [
     "bin/cli"
+  ],
+  "keywords": [
+    "acorn",
+    "ast"
   ]
 }
