@@ -5,7 +5,7 @@
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "acorn": "^7.3.1",
+    "acorn": "^7.4.0",
     "commander": "^6.0.0",
     "glob": "^7.1.6"
   },
