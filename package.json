@@ -1,6 +1,6 @@
 {
   "name": "acorn-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": "https://github.com/mkusaka/acorn-cli.git",
   "author": "mkusaka <hinoshita1992@gmail.com>",
   "license": "MIT",
