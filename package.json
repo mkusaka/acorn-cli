@@ -6,7 +6,7 @@
   "license": "MIT",
   "dependencies": {
     "acorn": "^8.0.4",
-    "commander": "^6.2.0",
+    "commander": "^8.2.0",
     "glob": "^7.1.6"
   },
   "bin": {
