@@ -1,4 +1,5 @@
 {
-  extends: ["config:base", ":onlyNpm"],
+  minimumReleaseAge: "7days",
+  extends: ["config:best-practices", ":onlyNpm"],
   rangeStrategy: "bump",
 }
