@@ -1,5 +1,6 @@
 {
   minimumReleaseAge: "7days",
-  extends: ["config:best-practices", ":onlyNpm"],
+  extends: ["config:best-practices"],
+  enabledManagers: ["npm"],
   rangeStrategy: "bump",
 }
